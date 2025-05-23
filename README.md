@@ -421,4 +421,8 @@
                             <th>Dia da Semana</th>
                             <th>Matéria em Foco</th>
                         </tr>
-        
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Segunda-feira</td>
+                            <t
